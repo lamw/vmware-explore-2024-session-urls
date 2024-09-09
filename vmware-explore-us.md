@@ -1,6 +1,6 @@
 # VMware Explore 2024 Las Vegas Breakout Session URLs
 
-Here is a summary of all VMware Explore Last Vegas 2024 Breakout session in an easy to search and view. Enjoy!
+Here is a summary of all VMware Explore Las Vegas 2024 Breakout session in an easy to search and view. Enjoy!
 
 _Last Updated: 09/09/2024 09:31:42_
 
