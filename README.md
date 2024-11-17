@@ -3,3 +3,4 @@
 Here is a summary of all VMware Explore US/EMEA 2024 Breakout session in an easy to search and view. Enjoy!
 
 * [VMware Explore US Sessions](vmware-explore-us.md)
+* [VMware Explore EMEA Sessions](vmware-explore-emea.md)
